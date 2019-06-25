@@ -1,0 +1,15 @@
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\WPFbasics\WPFbasics\bin\Debug\WPFbasics.exe.config
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\WPFbasics\WPFbasics\bin\Debug\WPFbasics.exe
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\WPFbasics\WPFbasics\bin\Debug\WPFbasics.pdb
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\WPFbasics\WPFbasics\obj\Debug\WPFbasics.csprojAssemblyReference.cache
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\WPFbasics\WPFbasics\obj\Debug\MainWindow.g.cs
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\WPFbasics\WPFbasics\obj\Debug\App.g.cs
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\WPFbasics\WPFbasics\obj\Debug\WPFbasics_MarkupCompile.cache
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\WPFbasics\WPFbasics\obj\Debug\WPFbasics_MarkupCompile.lref
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\WPFbasics\WPFbasics\obj\Debug\MainWindow.baml
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\WPFbasics\WPFbasics\obj\Debug\WPFbasics.g.resources
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\WPFbasics\WPFbasics\obj\Debug\WPFbasics.Properties.Resources.resources
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\WPFbasics\WPFbasics\obj\Debug\WPFbasics.csproj.GenerateResource.cache
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\WPFbasics\WPFbasics\obj\Debug\WPFbasics.csproj.CoreCompileInputs.cache
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\WPFbasics\WPFbasics\obj\Debug\WPFbasics.exe
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\WPFbasics\WPFbasics\obj\Debug\WPFbasics.pdb
